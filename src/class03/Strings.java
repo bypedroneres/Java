@@ -1,6 +1,6 @@
 package class03;
 
-public class Application {
+public class Strings {
     public static void main (String[] args ) {
         int myInt = 7;
 
