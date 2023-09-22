@@ -21,7 +21,7 @@ public class Variables {
         System.out.println(myDouble);
         System.out.println(myFloat);
         System.out.println(myChar);
-        System.out.println("Pedrin da massa");
+        System.out.println("Hello");
         System.out.println(myBoolean);
         System.out.println(myByte);
     }
